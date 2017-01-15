@@ -1,1 +1,0 @@
-# wpasinski.com
