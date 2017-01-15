@@ -1,10 +1,10 @@
 import styled from 'styled-components';
 
-const ProfileCardSubtitle = styled.h2`
+const Subtitle = styled.h2`
   color: #9B9B9B;
   font-size: 20px;
   font-weight: 300;
-  margin-top: 10px;
+  margin: 0;
 `;
 
-export default ProfileCardSubtitle;
+export default Subtitle;
